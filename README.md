@@ -15,7 +15,7 @@ O notebook utiliza fontes científicas e institucionais para apoiar a elaboraç�
 
 - [MedlinePlus — Complete Blood Count (CBC)](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)
 - [MedlinePlus — Red Blood Cell (RBC) Indices](https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/)
-- [Ministério da Saúde — Protocolo Clínico e Diretrizes Terapêuticas do Diabete Melito Tipo 2](https://www.gov.br/saude/pt-br/assuntos/pcdt/d/diabete-melito-tipo-2)
+- [Ministério da Saúde — Protocolo Clínico e Diretrizes Terapêuticas do Diabete Melito Tipo 2](https://www.gov.br/saude/pt-br/assuntos/pcdt/d/diabete-melito-tipo-2.pdf)
 
 A inclusão de uma fonte no notebook não significa que todas as suas informações tenham sido utilizadas em todas as respostas. A correspondência entre resposta e referência deve ser verificada em cada consulta.
 
